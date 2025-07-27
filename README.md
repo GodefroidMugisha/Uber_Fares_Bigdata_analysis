@@ -95,3 +95,6 @@ plt.show()
 * Each visualization step (line chart, column chart, matrix heatmap, scatter plot)
 * Final dashboard layout
 
+##Link to the PowerBi document in drive:
+https://drive.google.com/drive/folders/1_7B_g7M0zdpiYv5iKpk8Jpj523WZYkkD?usp=drive_link
+
